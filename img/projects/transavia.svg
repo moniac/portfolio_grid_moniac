@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="88" cy="87" r="83"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.413666214 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="180---iPhone-6-Plus" transform="translate(-2.000000, -1.000000)">
+            <g id="Oval-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="logo-transavia" transform="translate(30.000000, 22.000000)" fill="#00D66C">
+                <path d="M58.8735632,27.0422535 L58.8735632,8.00575379 C58.8735632,3.5742732 55.2953907,0 50.8814913,0 L48.7047156,0 C44.300657,0 40.7126437,3.58429806 40.7126437,8.00575379 L40.7126437,37.0646687 C40.7126437,39.2814888 41.6080588,41.283798 43.055582,42.7314666 C44.5010767,44.1740725 46.5019463,45.0704225 48.7121209,45.0704225 L78.1154653,45.0704225 C82.5334546,45.0704225 86.1149425,41.4870817 86.1149425,37.0711471 L86.1149425,35.041529 C86.1149425,30.6236511 82.5333465,27.0422535 78.1154653,27.0422535 L58.8735632,27.0422535 Z" id="Combined-Shape"></path>
+                <path d="M43.8195375,42.0017497 C45.2661462,43.4486544 46.1609195,45.4491305 46.1609195,47.6629565 L46.1609195,88.4497195 C46.1609195,92.8685414 42.5729062,96.4507042 38.1688476,96.4507042 L35.9920719,96.4507042 C31.5781725,96.4507042 28,92.8768018 28,88.4497195 L28,57.6901408 L8.75809787,57.6901408 C4.34021672,57.6901408 0.75862069,54.1087432 0.75862069,49.6908654 L0.75862069,47.6612473 C0.75862069,43.2453126 4.34010862,39.6619718 8.75809787,39.6619718 L38.1614424,39.6619718 C40.3716171,39.6619718 42.3724869,40.558322 43.8203124,42.0073323 Z" id="Combined-Shape"></path>
+                <path d="M46.1583639,89.2394366 L28,89.2394366 C28.2433416,110.687572 45.8337386,128 67.4974444,128 C89.1611502,128 106.751547,110.687572 106.994889,89.2394366 L86.1123869,89.2394366 C86.1123869,100.191788 77.1683742,109.070423 66.1353754,109.070423 C55.1023766,109.070423 46.1583639,100.191788 46.1583639,89.2394366 Z" id="Combined-Shape"></path>
+                <path d="M107,89.2394366 C107,85.7616886 104.175498,82.9295775 100.691299,82.9295775 L92.423644,82.9295775 C88.9315943,82.9295775 86.1149425,85.7545976 86.1149425,89.2394366 L107,89.2394366 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
