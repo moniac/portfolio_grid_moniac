@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="107px" viewBox="0 0 74 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#855326" offset="0%"></stop>
+            <stop stop-color="#673F0D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="57.4306548%" x2="0%" y2="57.4306522%" id="linearGradient-2">
+            <stop stop-color="#B80C09" offset="0%"></stop>
+            <stop stop-color="#B80C09" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="4" height="107" rx="1"></rect>
+            <path d="M4,0 C4,0 18.0098991,1.92988935 37.3932309,1.92988935 C56.7765626,1.92988935 74,0 74,0 L54.1085425,17.5081531 L74,33 C74,33 53.8303004,35.0163063 37.3932309,35.0163063 C20.9561613,35.0163063 4,33 4,33 L4,0 Z" id="Rectangle-2" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
