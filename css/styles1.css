@@ -436,6 +436,7 @@ main>section>ul>a {
     header>nav>a:nth-of-type(4) {
       top: 7.2em;
       left: .3em;
+      width: 3em;
     }
 
     header>section>img {
