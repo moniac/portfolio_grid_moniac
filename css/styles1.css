@@ -209,7 +209,7 @@ header>section>h2 {
 }
 
 header>section>aside>img {
-    height: 2.4em;
+    height: 2.2em;
     padding: 0em .15em 0em .15em;
 }
 
@@ -321,13 +321,18 @@ main aside:last-of-type p:nth-of-type(3) {
 padding: .6em 1em 0em 1em;
 }
 
-main aside:last-of-type p:nth-of-type(3) a {
+main aside:last-of-type p a {
   color: white;
   text-decoration: none;
 }
 
-main aside:last-of-type p:nth-of-type(3) a:hover {
+main aside:last-of-type p a:hover {
 text-decoration: underline;
+}
+
+main aside:last-of-type p:nth-of-type(4) {
+padding-top: 1em;
+font-weight: 900;
 }
 
 
