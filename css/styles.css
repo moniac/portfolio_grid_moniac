@@ -25,17 +25,17 @@ body
 
 body.paranoia {
 	background-color:#EFDAC9;
-	background: url(img//tafel.png) 0;
+	background: url(img/tafel.png) 0;
 }
 
 body.doof {
 	background-color:#EFDAC9;
-	background: url(img//eenzaam.png) 0;
+	background: url(img/eenzaam.png) 0;
 }
 
 body.dialoog {
 	background-color:#EFDAC9;
-	background: url(img//dialoog.jpg) 0;
+	background: url(img/dialoog.jpg) 0;
 	background-size: cover;
 }
 
@@ -65,7 +65,7 @@ position:relative;
 top:.8em;
 }
 
-img[src*="img//logotransavia.svg"] {
+img[src*="img/logotransavia.svg"] {
 filter:drop-shadow(2px 2px 2px rgba(0,0,0,0.2));
 margin:.1em 0 0 .5em;
 position:absolute;
@@ -75,7 +75,7 @@ left: .5em;
 cursor: pointer;
 }
 
-img[src*="img//aanmeld2.svg"] {
+img[src*="img/aanmeld2.svg"] {
 margin:.1em 0 0 .5em;
 position:absolute;
 right:.7em;
@@ -162,7 +162,7 @@ color: #FFFFFF;
 }
 
 figure {
-background:url(img//mountain_mobile2.svg);
+background:url(img/mountain_mobile2.svg);
 background-position:bottom;
 background-repeat:no-repeat;
 background-size:cover;
@@ -195,7 +195,7 @@ z-index:1000;
 }
 
 /*header.doof {
-background: url("img//eenzaam.png")
+background: url("img/eenzaam.png")
 }*/
 
 nav {
@@ -320,7 +320,7 @@ body section ul li section span {
 }
 
 main {
-background-image: url(img//mountain_mobile2.svg);
+background-image: url(img/mountain_mobile2.svg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: bottom;
@@ -439,7 +439,7 @@ left: -4em;
   left: 2em;
   bottom: -4.5em;
   transform: translate(-50%, -50%);
-  background: url(img//heart.png) no-repeat;
+  background: url(img/heart.png) no-repeat;
   background-position: 0 0;
   cursor: pointer;
 }
@@ -760,17 +760,17 @@ display: none;
 
 .dialoog {
 	color: white;
-	background-image: url(img//dialoog1.jpg);
+	background-image: url(img/dialoog1.jpg);
 }
 
 .doof {
 	color: white;
-	background-image: url(img//eenzaam.png);
+	background-image: url(img/eenzaam.png);
 background-position: center;
 }
 
 .paranoia {
 	color: white;
-	background-image: url(img//tafel.png);
+	background-image: url(img/tafel.png);
 background-position: center;
 }
