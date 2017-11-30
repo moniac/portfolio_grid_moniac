@@ -15,9 +15,9 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section
 
 body
 {
+	line-height:20px;
 	background-color:#EFDAC9;
 	font-family:'Open Sans', sans-serif;
-	line-height:20px;
 	transition: background-position 1s ease;
 }
 
