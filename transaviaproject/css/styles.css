@@ -320,7 +320,7 @@ body section ul li section span {
 }
 
 main {
-background-image: url(img/mountain_mobile2.svg);
+background-image: url(../img/mountain_mobile2.svg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: bottom;
@@ -760,17 +760,17 @@ display: none;
 
 .dialoog {
 	color: white;
-	background-image: url(img/dialoog1.jpg);
+	background-image: url(../img/dialoog1.jpg);
 }
 
 .doof {
 	color: white;
-	background-image: url(img/eenzaam.png);
+	background-image: url(../img/eenzaam.png);
 background-position: center;
 }
 
 .paranoia {
 	color: white;
-	background-image: url(img/tafel.png);
+	background-image: url(../img/tafel.png);
 background-position: center;
 }
