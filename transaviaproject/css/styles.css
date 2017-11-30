@@ -320,10 +320,10 @@ body section ul li section span {
 }
 
 main {
-background-image: url(../img/mountain_mobile2.svg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: bottom;
+background-image: url(../img/mountain_mobile2.svg);
 height: 14em;
 padding-top: 10em;
 padding-bottom: 5em;
