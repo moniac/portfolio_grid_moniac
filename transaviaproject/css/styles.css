@@ -68,9 +68,9 @@ filter:drop-shadow(2px 2px 2px rgba(0,0,0,0.2));
 margin:.1em 0 0 .5em;
 position:absolute;
 width:2.4rem;
-top: .3em;
 left: .5em;
 cursor: pointer;
+top: .3em;
 }
 
 img[src*="img/aanmeld2.svg"] {
