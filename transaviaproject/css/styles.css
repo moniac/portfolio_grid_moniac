@@ -439,7 +439,7 @@ left: -4em;
   left: 2em;
   bottom: -4.5em;
   transform: translate(-50%, -50%);
-  background: url(img/heart.png) no-repeat;
+  background: url(../img/heart.png) no-repeat;
   background-position: 0 0;
   cursor: pointer;
 }
