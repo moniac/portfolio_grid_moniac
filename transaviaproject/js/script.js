@@ -26,12 +26,12 @@ plusToVinkje();
 //
 //
 // var change = function (that) {
-//         if(that.getAttribute("src") == "/img/empty.png"){
+//         if(that.getAttribute("src") == "img/empty.png"){
 //             that.src = "img/fill.png";
 //
 //         }
 //         else{
-//             that.src = "/img/empty.png";
+//             that.src = "img/empty.png";
 //
 //         }
 // }

@@ -62,7 +62,7 @@ body {
 figure {
     position: relative;
     top: 3.25em;
-    background: url(/img/mountain_mobile2.svg);
+    background: url(img/mountain_mobile2.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
