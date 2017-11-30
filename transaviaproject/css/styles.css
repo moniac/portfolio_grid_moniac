@@ -312,10 +312,10 @@ top: .7em;
 
 
 body section ul li section span {
+	top:.5em;
 	font-size: 2em;
 	position: absolute;
 	right: .6em;
-	top:.5em;
 	cursor: pointer;
 }
 
