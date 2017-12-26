@@ -13,6 +13,7 @@ self.addEventListener('install', (event) => {
 				'/css/styles1.css',
 				'https://fonts.googleapis.com/css?family=Lato:400,900',
 				'/img/*',
+				'/img/projects/cv_Mohammed_Mulazada.png'
 			])
 		}) )
 })
