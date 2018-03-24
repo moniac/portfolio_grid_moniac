@@ -75,9 +75,29 @@ table {
 
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', Arial sans-serif;
     -webkit-font-smoothing: antialiased;
     background-color: #0C4A72;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Black'), local('Lato-Black'),
+        url('Lato-Black.woff2') format('woff2'),
+        url('Lato-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: local('Lato Regular'), local('Lato-Regular'),
+        url('Lato-Regular.woff2') format('woff2'),
+        url('Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 header {

@@ -16,10 +16,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section
 body
 {
 	background-color:#EFDAC9;
-	/*background-color: rgba(239, 218, 201);*/
 	font-family:'Open Sans', sans-serif;
 	line-height:20px;
-	/*padding-bottom:4em;*/
 	transition: background-position 1s ease;
 }
 
