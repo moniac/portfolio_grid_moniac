@@ -1,0 +1,20 @@
+{
+  "name": "portfolio_grid_moniac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moniac/portfolio_grid_moniac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moniac/portfolio_grid_moniac/issues"
+  },
+  "homepage": "https://github.com/moniac/portfolio_grid_moniac#readme"
+}
