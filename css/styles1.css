@@ -69,6 +69,9 @@ table {
   transform: scale(1.1);
 }
 
+body {
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
 
 @font-face {
     font-family: 'Lato';
