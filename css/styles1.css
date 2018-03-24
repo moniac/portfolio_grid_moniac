@@ -82,12 +82,10 @@ body {
 
 header {
     background-color: #0C4A72;
-    /*height: 20em;*/
     position: relative;
 }
 
 header>nav {
-    /*background-color: #0C4A72;*/
     height: 4.3em;
     position: relative;
     display: block;
