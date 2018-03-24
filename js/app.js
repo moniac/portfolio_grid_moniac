@@ -21,6 +21,3 @@ window.addEventListener('beforeinstallprompt', (event) => {
 	deferredPrompt = event
 	return false
 })
-
-var otherWindow = window.open();
-otherWindow.opener = null;
