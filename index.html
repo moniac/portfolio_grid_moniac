@@ -21,7 +21,6 @@
       /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
       !function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(a){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
     </script>
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=xQzqex8O5P">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=xQzqex8O5P">
