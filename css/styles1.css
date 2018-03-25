@@ -154,7 +154,7 @@ main>section>ul>li:nth-of-type(6)>a {
 section>ul>li>aside {
   text-decoration: none;
     position: absolute;
-    bottom: -3em;
+    bottom: -3.2em;
     left: 0;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.75);
@@ -184,7 +184,6 @@ main aside:last-of-type p:nth-of-type(4) {
 padding-top: 1em;
 font-weight: 900;
 }
-
 
 
 main>section>ul>li:hover>aside {
